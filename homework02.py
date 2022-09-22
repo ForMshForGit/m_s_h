@@ -56,7 +56,7 @@ class Dog:
 
 Barsik = Dog(name="Barsik")
 for day in range(365):
-    if Barsik.alive == False
+    if Barsik.alive == False:
         break
     Barsik.life(day)
 
